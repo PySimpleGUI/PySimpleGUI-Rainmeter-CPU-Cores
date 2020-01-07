@@ -100,12 +100,11 @@ def main():
         stats = psutil.cpu_percent(percpu=True)
 
         # update each graph
-        for i in range(num_cores):
-            graphs[i].graph_percentage_abs(stats[i])
-            graphs[i].text_display('{} CPU {:2.0f}'.format(i, stats[i]))
+        for i, util in enumerate(stats):
+            graphs[i].graph_percentage_abs(util)
+            graphs[i].text_display('{} CPU {:2.0f}'.format(i, util))
 
     window.close()
 
 if __name__ == "__main__":
-
     main()

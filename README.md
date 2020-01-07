@@ -1,5 +1,3 @@
-![pysimplegui_logo](https://user-images.githubusercontent.com/13696193/43165867-fe02e3b2-8f62-11e8-9fd0-cc7c86b11772.png)
-
 # PySimpleGUI Rainmeter CPU Cores
 
 ## Rainmeter-Style Desktop Widget That Graphs Your CPU's Cores
@@ -40,3 +38,5 @@ The result is a bornerless window that's transparent and can be moved by grabbin
 ## Hungry for more?
 
 If you want more examples like tthis one to help in creating your GUI, then be sure and check out the many programs found at http://Demos.PySimpleGUI.org. 
+
+![logo500](https://user-images.githubusercontent.com/46163555/71866174-62150980-30d3-11ea-8a27-451849cd88ed.png)

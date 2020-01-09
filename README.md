@@ -2,7 +2,8 @@
 
 ## Rainmeter-Style Desktop Widget That Graphs Your CPU's Cores
 
-![PSG CPU Cores Scrolling](https://user-images.githubusercontent.com/46163555/71864004-99cc8300-30cc-11ea-805c-de04b0b2296b.gif)
+![PSG CPU Cores Scrolling](https://user-images.githubusercontent.com/46163555/72114378-52830400-3311-11ea-8584-32bde5c265db.gif)
+
 
 
 ## Requirements
